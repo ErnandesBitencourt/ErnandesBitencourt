@@ -21,3 +21,5 @@
 <img align="center" alt= "html5" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 
 </div><br/>
+
+  ! [ Animação de cobra ] (https://github.com/ErnandesBitencourt/ErnandesBitencourt/blob/output/github-contribution-grid-snake.svg)
