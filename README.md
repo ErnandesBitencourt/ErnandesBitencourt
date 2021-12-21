@@ -39,10 +39,3 @@
   [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ernandes.bitencourt/)
   <a href="mailto:ernandes.f.bitencourt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
-<div align="center">
-  
-  ![Snake animation](https://github.com/ErnandesBitencourt/ErnandesBitencourt/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
