@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi Tudo bem? Me chamo <a href="https://www.linkedin.com/in/ernandes-bitencourt-b630a7117"><i>Ernandes Bitencourt </i></a> 😃️</h1>
-  <p align="center">Estudo Desenvolvimento Web Full Stack na <a href="https://www.labenu.com.br"><i>Labenu</i></a> 
+  <p align="center"> Desenvolvedor Web Full Stack </p> 
   
 </div>
 
@@ -34,7 +34,7 @@
   <img align="center" alt= "html5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img align="center" alt= "html5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img align="center" alt= "html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img align="center" alt= "html5" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  
  
 
 </div><br>
