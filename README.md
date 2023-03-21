@@ -1,26 +1,7 @@
-<div>
-  <h1 align="center">Oi Tudo bem? Me chamo <a href="https://www.linkedin.com/in/ernandes-bitencourt-b630a7117"><i>Ernandes Bitencourt </i></a> 😃️</h1>
-  <p align="center"> Desenvolvedor Web Full Stack </p> 
-  
-</div>
 
-
-<div align="center">
-
- 
-  <a href="https://github.com/ErnandesBitencourt">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ErnandesBitencourt&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-	  
-
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErnandesBitencourt&layout=compact&langs_count=7&theme=dracula"/>  
-	
-  </a>
-	
   
 			
  
-</div>
-
 
 
 
